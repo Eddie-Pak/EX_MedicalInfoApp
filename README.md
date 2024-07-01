@@ -1,5 +1,14 @@
 # 개요
 
+데이터 저장 불러오기 초기화
+
+<img src="https://github.com/Eddie-Pak/EX_MedicalInfoApp/assets/136288531/3f181f51-f265-456d-865b-e116dc91fcac" width="300">
+
+
+전화앱 실행
+
+<img src="https://github.com/Eddie-Pak/EX_MedicalInfoApp/assets/136288531/6c7abc07-5174-42f8-939a-a4cc2fb1828b" width="300">
+
 ### 구현기능
 
 - 다양한 유저정보
